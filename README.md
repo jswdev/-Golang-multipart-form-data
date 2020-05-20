@@ -1,11 +1,13 @@
 # Golang-Multipart-form-Data
 implement multipart-form-Data with go server
 
-## build
+## How to use
 
 ```
 go run main.go
 ```   
+open the link on browser
+http://127.0.0.1:9090/uploadMore  
 
 
 ## Example
